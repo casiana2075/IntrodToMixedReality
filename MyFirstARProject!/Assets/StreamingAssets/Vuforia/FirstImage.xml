@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="piatra2" size="0.100000 0.070149" />
+    <ImageTarget name="piatra1" size="0.100000 0.070149" />
+  </Tracking>
+</QCARConfig>
