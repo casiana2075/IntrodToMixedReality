@@ -1,1 +1,1 @@
-In the vr project when the player hit the baseball with the bat, the game logic calculatethe distance from the initial position of baseball till the first colision of the ball with the ground. This way the farther the ball is thrown, the higher the score is. 
+In the vr project when the player hit the baseball with the bat, the game logic calculate the distance from the initial position of baseball till the first colision of the ball with the ground. This way the farther the ball is thrown, the higher the score is. 
