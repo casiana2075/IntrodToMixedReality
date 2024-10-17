@@ -1,2 +1,2 @@
 # IntrodToMixedReality
-Maxim Casiana & Popoiu Andra from B4
+Maxim Casiana & Popoiu Andra both from B4
